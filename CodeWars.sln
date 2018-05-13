@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenAte9", "SevenAte9\SevenAte9.csproj", "{42272766-0B43-4163-8C18-B38DB44062A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Round to the next multiple of 5", "Round to the next multiple of 5.\Round to the next multiple of 5.csproj", "{4ED3C4D1-C9A5-4BC5-92A4-18A6E4F81255}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{42272766-0B43-4163-8C18-B38DB44062A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42272766-0B43-4163-8C18-B38DB44062A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42272766-0B43-4163-8C18-B38DB44062A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED3C4D1-C9A5-4BC5-92A4-18A6E4F81255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED3C4D1-C9A5-4BC5-92A4-18A6E4F81255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED3C4D1-C9A5-4BC5-92A4-18A6E4F81255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED3C4D1-C9A5-4BC5-92A4-18A6E4F81255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

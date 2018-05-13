@@ -6,8 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-/*
-  Description:
+/*Description:
   Write a function that removes every lone 9 that is inbetween 7s.
   Kata.SevenAteNine("79712312") => "79712312"
   Kata.SevenAteNine("79797") => "777"
