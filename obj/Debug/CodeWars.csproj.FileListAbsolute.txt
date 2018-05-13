@@ -1,0 +1,7 @@
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\CodeWars.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\SevenAte9.csprojAssemblyReference.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\SevenAte9.csproj.CoreCompileInputs.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\obj\Debug\SevenAte9.csprojAssemblyReference.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\obj\Debug\SevenAte9.csproj.CoreCompileInputs.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\obj\Debug\CodeWars.pdb
