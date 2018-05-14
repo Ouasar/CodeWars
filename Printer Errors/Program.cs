@@ -40,19 +40,18 @@ namespace Printer_Errors
 {
     public class Printer
     {
-        static void Main() => ;
+        static void Main()
+        {
+        }
 
         public static string PrinterError(string s)
         {
-            char[] abc = {'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'x', 'y', 'z'};
+            char[] abc = {'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
             int j = 0;
 
-            foreach (var a in abc)
-            {
-                j += j = new Regex(char.ToString(a)).Matches(s).Count;
-            }
-
-            return (j - 1 + "/" + Convert.ToString(s.Length));
+            foreach (var letter in s)
+                j += abc.Count(i => letter == i);
+            return (j + "/" + Convert.ToString(s.Length));
         }
     }
 }
