@@ -1,0 +1,7 @@
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Remove anchor from URL\bin\Debug\Remove anchor from URL.exe.config
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Remove anchor from URL\bin\Debug\Remove anchor from URL.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Remove anchor from URL\bin\Debug\Remove anchor from URL.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Remove anchor from URL\obj\Debug\Remove anchor from URL.csprojAssemblyReference.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Remove anchor from URL\obj\Debug\Remove anchor from URL.csproj.CoreCompileInputs.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Remove anchor from URL\obj\Debug\Remove anchor from URL.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Remove anchor from URL\obj\Debug\Remove anchor from URL.pdb

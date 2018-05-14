@@ -1,0 +1,7 @@
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Build Tower\bin\Debug\Build Tower.exe.config
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Build Tower\bin\Debug\Build Tower.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Build Tower\bin\Debug\Build Tower.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Build Tower\obj\Debug\Build Tower.csprojAssemblyReference.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Build Tower\obj\Debug\Build Tower.csproj.CoreCompileInputs.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Build Tower\obj\Debug\Build Tower.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Build Tower\obj\Debug\Build Tower.pdb
