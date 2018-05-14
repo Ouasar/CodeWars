@@ -1,0 +1,7 @@
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors\bin\Debug\Printer Errors.exe.config
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors\bin\Debug\Printer Errors.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors\bin\Debug\Printer Errors.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors\obj\Debug\Printer Errors.csprojAssemblyReference.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors\obj\Debug\Printer Errors.csproj.CoreCompileInputs.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors\obj\Debug\Printer Errors.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors\obj\Debug\Printer Errors.pdb

@@ -1,0 +1,22 @@
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Printer Errors Test.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Printer Errors Test.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\nunit.framework.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Printer Errors.exe
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Printer Errors.pdb
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Printer Errors.exe.config
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\bin\Debug\nunit.framework.xml
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\obj\Debug\Printer Errors Test.csprojAssemblyReference.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\obj\Debug\Printer Errors Test.csproj.CoreCompileInputs.cache
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\obj\Debug\Printer Errors Test.csproj.CopyComplete
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\obj\Debug\Printer Errors Test.dll
+C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\Printer Errors Test\obj\Debug\Printer Errors Test.pdb
