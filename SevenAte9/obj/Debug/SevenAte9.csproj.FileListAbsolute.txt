@@ -1,7 +1,0 @@
-C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\SevenAte9\bin\Debug\SevenAte9.exe.config
-C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\SevenAte9\bin\Debug\SevenAte9.exe
-C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\SevenAte9\bin\Debug\SevenAte9.pdb
-C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\SevenAte9\obj\Debug\SevenAte9.csprojAssemblyReference.cache
-C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\SevenAte9\obj\Debug\SevenAte9.csproj.CoreCompileInputs.cache
-C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\SevenAte9\obj\Debug\SevenAte9.exe
-C:\Users\Valve\Documents\Visual Studio\Project\CodeWars\SevenAte9\obj\Debug\SevenAte9.pdb

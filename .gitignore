@@ -1,0 +1,35 @@
+### C#
+*.suo
+*.user
+*.log
+logs.txt
+_ReSharper.*
+bin
+log
+obj
+out
+PublishProfiles
+launchSettings.json
+.vs
+packages
+node_modules
+
+### Python
+# Distribution / packaging
+.idea
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg

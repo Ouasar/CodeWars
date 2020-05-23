@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build Tower", "CodeWars\Build Tower.csproj", "{C21B565C-5EAF-4556-BB00-5023F2E3932C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{8E02CBC7-2B3C-45A4-8D77-DE1A33DAE8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer Errors Test", "Printer Errors Test\Printer Errors Test.csproj", "{A5A55EBE-4BA5-481A-A2FB-7E172EDD7353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove anchor from URL", "Remove anchor from URL\Remove anchor from URL.csproj", "{1999FC37-0F8C-4F51-B18D-97BE0B49C084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenAte9", "SevenAte9\SevenAte9.csproj", "{A3CB50E3-4701-48A4-B759-D0DA4F0573E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Round to the next multiple of 5", "Round to the next multiple of 5\Round to the next multiple of 5.csproj", "{85AE62B1-3779-4FED-AB17-5681513DCA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21B565C-5EAF-4556-BB00-5023F2E3932C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21B565C-5EAF-4556-BB00-5023F2E3932C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21B565C-5EAF-4556-BB00-5023F2E3932C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21B565C-5EAF-4556-BB00-5023F2E3932C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E02CBC7-2B3C-45A4-8D77-DE1A33DAE8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E02CBC7-2B3C-45A4-8D77-DE1A33DAE8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E02CBC7-2B3C-45A4-8D77-DE1A33DAE8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E02CBC7-2B3C-45A4-8D77-DE1A33DAE8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A55EBE-4BA5-481A-A2FB-7E172EDD7353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A55EBE-4BA5-481A-A2FB-7E172EDD7353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A55EBE-4BA5-481A-A2FB-7E172EDD7353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A55EBE-4BA5-481A-A2FB-7E172EDD7353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1999FC37-0F8C-4F51-B18D-97BE0B49C084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1999FC37-0F8C-4F51-B18D-97BE0B49C084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1999FC37-0F8C-4F51-B18D-97BE0B49C084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1999FC37-0F8C-4F51-B18D-97BE0B49C084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CB50E3-4701-48A4-B759-D0DA4F0573E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CB50E3-4701-48A4-B759-D0DA4F0573E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CB50E3-4701-48A4-B759-D0DA4F0573E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CB50E3-4701-48A4-B759-D0DA4F0573E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AE62B1-3779-4FED-AB17-5681513DCA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AE62B1-3779-4FED-AB17-5681513DCA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AE62B1-3779-4FED-AB17-5681513DCA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AE62B1-3779-4FED-AB17-5681513DCA93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69365BB2-1DBB-4FD8-BCBD-4F572DF5F875}
+	EndGlobalSection
+EndGlobal
