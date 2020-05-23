@@ -1,3 +1,3 @@
-# CodeWars
-    C#
-    Python
+# CodeWars Tasks
+    - C#
+    - Python
