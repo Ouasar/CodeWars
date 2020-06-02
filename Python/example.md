@@ -1,4 +1,4 @@
-import CodewarsLib.test_framework  as test
+import CodewarsLib.test_framework as test
 
 
 # Arrange
