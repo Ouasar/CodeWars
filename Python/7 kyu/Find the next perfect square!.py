@@ -2,7 +2,7 @@ import CodewarsLib.test_framework  as test
 import math
 
 
-# Arrange
+# Method
 def find_next_square(number: int):
     sqrt = math.sqrt(number)
 
@@ -11,7 +11,7 @@ def find_next_square(number: int):
     return -1
 
 
-# Act
+# Test
 def run_test():
     test.describe("find_next_square")
 

@@ -2,12 +2,12 @@ import CodewarsLib.test_framework as Test
 import re
 
 
-# Arrange
+# Method
 def validate_pin(pin):
     return re.search(r'[\D]', pin) is None and (len(pin) == 4 or len(pin) == 6)
 
 
-# Act
+# Test
 def run_test():
     Test.assert_equals(validate_pin("12"), False, "Wrong output for '12'")
     Test.assert_equals(validate_pin("123"), False, "Wrong output for '123'")

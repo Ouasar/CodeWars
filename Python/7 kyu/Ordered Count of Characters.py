@@ -2,12 +2,12 @@ import CodewarsLib.test_framework as test
 from collections import Counter
 
 
-# Arrange
+# Method
 def ordered_count(inp):
     return list(Counter(inp).items())
 
 
-# Act
+# Test
 def run_test():
     tests = (
         ('ab', [('a', 1), ('b', 1)]),

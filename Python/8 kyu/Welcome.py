@@ -21,6 +21,7 @@ languages_database = {
     'welsh': 'Croeso'}
 
 
+# Method
 def greet(word):
     if languages_database.get(word) is None:
         return "Welcome"
@@ -28,7 +29,7 @@ def greet(word):
         return languages_database.get(word)
 
 
-# Act
+# Test
 def run_test():
     test.describe("Basic tests")
     test.assert_equals(greet('english'), 'Welcome')

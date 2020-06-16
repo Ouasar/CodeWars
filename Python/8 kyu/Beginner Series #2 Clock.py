@@ -1,12 +1,12 @@
 import CodewarsLib.test_framework  as test
 
 
-# Arrange
+# Method
 def past(h, m, s):
     return s * 1000 + m * 60000 + h * 3600000
 
 
-# Act
+# Test
 def run_test():
     test.assert_equals(past(0, 1, 1), 61000)
     test.assert_equals(past(1, 1, 1), 3661000)

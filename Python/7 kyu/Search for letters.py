@@ -2,13 +2,13 @@ import CodewarsLib.test_framework as test
 import string
 
 
-# Arrange
+# Method
 def change(text):
     text = text.lower()
     return "".join([str(1) if letter in text else str(0) for letter in string.ascii_lowercase])
 
 
-# Act
+# Test
 def run_test():
     test.assert_equals(change("a **&  bZ"), "11000000000000000000000001")
     test.assert_equals(change('Abc e  $$  z'), "11101000000000000000000001")

@@ -1,7 +1,7 @@
 import CodewarsLib.test_framework  as test
 
 
-# Logic
+# Method
 def abbrevName(name):
     return f"{name.split()[0][0].upper()}.{name.split()[1][0].upper()}"
 
@@ -15,5 +15,5 @@ def run_test():
     test.assert_equals(abbrevName("David Mendieta"), "D.M")
 
 
-# Execute
+# Assert
 run_test()

@@ -11,6 +11,7 @@ n = {1: "Mercury",
      8: "Neptune"}
 
 
+# Method
 def get_planet_name(id):
     return {1: "Mercury",
             2: "Venus",
@@ -22,6 +23,7 @@ def get_planet_name(id):
             8: "Neptune"}.get(id)
 
 
+# Test
 def run_test():
     Test.assert_equals(get_planet_name(2), 'Venus')
     Test.assert_equals(get_planet_name(5), 'Jupiter')
@@ -31,7 +33,5 @@ def run_test():
     Test.assert_equals(get_planet_name(1), 'Mercury')
 
 
-# Act
-run_test()
-
 # Assert
+run_test()

@@ -1,13 +1,14 @@
 import CodewarsLib.test_framework as test
 
 
-# Arrange
+# Method
 def method():
 
 
-# Act
+# Test
 def run_test():
 
 
 # Assert
 run_test()
+
