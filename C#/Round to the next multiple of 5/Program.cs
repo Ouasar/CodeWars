@@ -1,4 +1,4 @@
-﻿using System;
+﻿using NUnit.Framework;
 
 /* Description:
    Given an integer as input, can you round it to the next (meaning, "higher") 5?
@@ -23,11 +23,11 @@
 
 namespace Round_to_the_next_multiple_of_5
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Method(0);
+            Assert.AreEqual(5, Method(1));
         }
 
         static int Method(int n)
@@ -37,14 +37,12 @@ namespace Round_to_the_next_multiple_of_5
                 return 5 - (n % 5) + n;
             }
 
-            else if (n < 0)
+            if (n < 0)
             {
                 return 5 - (n % 5) + n - 5;
             }
-            else
-            {
-                return n;
-            }
+
+            return n;
         }
     }
 }

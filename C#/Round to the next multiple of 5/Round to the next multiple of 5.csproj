@@ -6,4 +6,8 @@
     <RootNamespace>Round_to_the_next_multiple_of_5</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.13.2" />
+  </ItemGroup>
+
 </Project>

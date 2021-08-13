@@ -22,19 +22,16 @@
 
 namespace SevenAte9
 {
-    class Program
+    static class Program
     {
         static void Main()
         {
             Console.WriteLine(SevenAteNine("165561786121789797"));
         }
 
-        public static string SevenAteNine(string str)
+        private static string SevenAteNine(string str)
         {
-            foreach (var _ in str)
-            {
-                str = str.Replace("797", "77");
-            }
+            foreach (var _ in str) str = str.Replace("797", "77");
 
             return str;
         }

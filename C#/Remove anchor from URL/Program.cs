@@ -2,19 +2,13 @@
 
 namespace Remove_anchor_from_URL
 {
-    class Program
+    static class Program
     {
         static void Main()
         {
             Console.WriteLine(Method("www.codewars.com/katas/?page=1#about"));
         }
 
-        public static string Method(string url)
-        {
-            if (url.Contains("#"))
-                return url.Remove(url.IndexOf('#'));
-            else
-                return url;
-        }
+        static string Method(string url) => url.Contains("#") ? url.Remove(url.IndexOf('#')) : url;
     }
 }

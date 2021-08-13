@@ -9,11 +9,11 @@ namespace Printer_Errors_Test
     public static class PrinterTests
     {
         [Test]
-        public static void test1()
+        public static void testOne()
         {
-            Console.WriteLine("Testing PrinterError");
-            string s = "aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz";
-            Assert.AreEqual("3/56", Program.PrinterError(s));
+            var lettersParam = "aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz";
+
+            Assert.AreEqual("3/56", Program.PrinterError(lettersParam));
         }
     }
 }
