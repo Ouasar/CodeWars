@@ -36,4 +36,3 @@ def run_test():
 
 # Assert
 run_test()
-
