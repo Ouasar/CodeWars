@@ -50,7 +50,7 @@ namespace Printer_Errors
                 j += abc.Count(i => letter == i);
             }
 
-            return (j + "/" + Convert.ToString(s.Length));
+            return j + "/" + Convert.ToString(s.Length);
         }
     }
 }
